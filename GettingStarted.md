@@ -18,7 +18,7 @@
 部署时，所选容器Servlet版本应为3.1+。
 > 以tomcat为例，应为tomcat8.0+
 > 官方给出的不同版本的Tomcat所对应的Servlet/JSP规范和JDK版本如下图所示：
-> ![tomcat-servlet-version](images\tomcat-servlet-version.png)
+> ![tomcat-servlet-version](images/tomcat-servlet-version.png)
 
 ## Maven
 
